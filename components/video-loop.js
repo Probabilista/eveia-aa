@@ -8,7 +8,7 @@ const VideoLoop = ({ title, id, width = 16, height = 9, className }) => {
     <div className={cx('video-loop', className)}>
       <iframe
         title={title}
-        src={`https://youtu.be/${id}`}
+        src={`https://youtu.be/_T3EKJ9Wjkw`}
         frameBorder="0"
         allowFullScreen
         allow="autoplay; fullscreen"
