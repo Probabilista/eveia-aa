@@ -55,7 +55,7 @@ export default {
           name: 'id',
           type: 'string',
           description:
-            'Alternatively, enter a vimeo ID to show a looping video instead'
+            'Alternatively, enter a video ID (youtube) to show a looping video instead'
         },
         {
           title: 'Background Video Title',
